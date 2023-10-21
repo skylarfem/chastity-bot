@@ -1,5 +1,6 @@
 # chastity bot
-This bot, coded by [Skylar](https://twitter.com/skylarthefemboy), can save a key safe code, designed for chastity keys.
+This bot, coded by [Skylar](https://twitter.com/skylarthefemboy), can save a key safe code in a MySQL database and edit the value on the fly with Discord slash commands.
+I have designed this with long distance relationships in mind to ensure the sub may still access their keys if necessary. 
 
 ## How does it work??
 The way me and my owner use it is shown below
