@@ -13,6 +13,8 @@ The way me and my owner use it is shown below
 ## Commands
 - /lock - Command used by the owner/master to change the unlock code value in the database
 - /unlock - Command used by the sub in order to see their code in an emergency
+
+
 These are the only commands supported at the moment as this is designed to be a very simple bot to be used privately between dom and sub
 
 ## Server template
